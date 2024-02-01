@@ -1,0 +1,17 @@
+D:\BankApp_ADO.NET_docker\Business\bin\Debug\net6.0\BankApp.Business.deps.json
+D:\BankApp_ADO.NET_docker\Business\bin\Debug\net6.0\BankApp.Business.dll
+D:\BankApp_ADO.NET_docker\Business\bin\Debug\net6.0\BankApp.Business.pdb
+D:\BankApp_ADO.NET_docker\Business\bin\Debug\net6.0\BankApp.Data.dll
+D:\BankApp_ADO.NET_docker\Business\bin\Debug\net6.0\BankApp.Models.dll
+D:\BankApp_ADO.NET_docker\Business\bin\Debug\net6.0\BankApp.Models.pdb
+D:\BankApp_ADO.NET_docker\Business\bin\Debug\net6.0\BankApp.Data.pdb
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.csproj.AssemblyReference.cache
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.GeneratedMSBuildEditorConfig.editorconfig
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.AssemblyInfoInputs.cache
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.AssemblyInfo.cs
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.csproj.CoreCompileInputs.cache
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.csproj.CopyComplete
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.dll
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\refint\BankApp.Business.dll
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\BankApp.Business.pdb
+D:\BankApp_ADO.NET_docker\Business\obj\Debug\net6.0\ref\BankApp.Business.dll
