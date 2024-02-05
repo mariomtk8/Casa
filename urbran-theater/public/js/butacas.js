@@ -15,6 +15,8 @@ document.addEventListener('DOMContentLoaded', function () {
       obra.butacas.forEach(butaca => {
         const divButaca = document.createElement('div');
         divButaca.classList.add('butaca');
+        divButaca.setAttribute('data-numero', butaca.numero);
+        divButaca.classList.add('butaca');
         if (butaca.ocupada) {
           divButaca.classList.add('ocupada');
         } else {
@@ -96,7 +98,7 @@ document.addEventListener('DOMContentLoaded', function () {
 
   botonContainer.addEventListener('click', function() {
     const butacasSeleccionadas = Array.from(document.querySelectorAll('.butaca.seleccionada'))
-      .map(div => div.textContent);
+      .map(div => div.getAttribute('data-numero'));
 
     fetch(`/api/obra/butacas/${idObra}`, {
         method: 'POST',

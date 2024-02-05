@@ -7,9 +7,8 @@ import {RouterView} from 'vue-router'
 
 <template>
   <Header></Header>
-  <RouterView></RouterView>
   <main>
-    <Index></Index>
+    <RouterView></RouterView>
   </main>
   <Footer></Footer>
 </template>

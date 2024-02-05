@@ -3,6 +3,107 @@ body, h1, h2, p, ul, li, a {
   margin: 0;
   padding: 0;
   text-decoration: none;
+
+}
+.const-Titulo{
+  display: flex;
+  align-items: center;
+  justify-content: start; 
+  width: 100%;
+  background-color: #1E3367;
+  height: 13vh;
+  margin-bottom: 10vh;
+}
+#info-container h1 {
+    color: #fff;
+    font-size: 2em;
+    margin-left: 10vh;
+}
+
+.boton-guardar {
+  padding: 10px 20px;
+  margin-top: 20px;
+  background-color: #4CAF50; /* Verde */
+  color: white;
+  border: none;
+  cursor: pointer;
+}
+
+.boton-guardar:hover {
+  background-color: #45a049;
+}
+#contenedor-butacas {
+  display: grid;
+  grid-template-columns: repeat(16, 0fr);
+  grid-gap: 5px;
+  justify-content: center;
+  padding: 10px;
+  margin-top: 7vh;
+}
+
+#boton-container{
+  display: flex;
+  justify-content: center;
+  margin-top: 12vh;
+}
+.img-container{
+  display: flex;
+  background-color: #1E3367;
+  justify-content: center;
+  padding: 7vh;
+  max-width: 300px;
+  margin: auto;
+}
+.img-container img{
+  width: 300px;
+  height: 450px;
+}
+.Boton-info{
+  background-color: #1E3367;
+    border-radius: 32px;
+    display: flex;
+    width: 47vh;
+    height: 8vh;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 10vh;
+    color: white;
+    font-size: 15px;
+}
+.titulo-butacas{
+  display: flex;
+    justify-content: center;
+    margin: 10vh;
+    font-size: 30px;
+}
+.escenario {
+  margin-top: 7vh;
+    margin: auto;
+    border-radius: 32px;
+    width: 450px;
+    border-right: 60px solid transparent;
+    border-left: 60px solid transparent;
+    border-top: 202px solid #1E3367;
+}
+
+.butaca {
+  width: 30px;
+  height: 30px;
+  background-color: #ddd;
+  border: 1px solid #666;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.butaca.ocupada {
+  background-color: #ad0707;
+  cursor: not-allowed;
+}
+
+.butaca.seleccionada {
+  background-color: #0f0; /* Verde para indicar selección */
 }
 
 /* Estilos generales del cuerpo */

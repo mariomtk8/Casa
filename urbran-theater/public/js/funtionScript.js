@@ -11,9 +11,9 @@ document.addEventListener('DOMContentLoaded', function () {
       })
       .then(obra => {
           const displayElement = document.getElementById('info-container');
-          displayElement.innerHTML = ''; 
+          displayElement.innerHTML = ''; // Limpia el contenido previo
 
-          //  nombre de la obra
+          // Crear y agregar el nombre de la obra
           const constTitulo = document.createElement('div');
           constTitulo.className = 'const-Titulo';
           const titulo = document.createElement('h1');
@@ -21,14 +21,14 @@ document.addEventListener('DOMContentLoaded', function () {
           constTitulo.appendChild(titulo);
           displayElement.appendChild(constTitulo)
 
-          //imagen principal
+          // Agregar imagen principal
           const imagenPrincipal = document.createElement('img');
           imagenPrincipal.src = obra.images[0]; // Asumiendo que el primer elemento es la imagen principal
           imagenPrincipal.alt = `Imagen principal de ${obra.name}`;
           imagenPrincipal.style.width = '100%'; // La imagen ocupará el ancho completo del contenedor
           displayElement.appendChild(imagenPrincipal);
 
-          //horarios de la función
+          // Agregar horarios de la función
           const horarios = document.createElement('div');
           horarios.className = 'cont-horarios'
           const horariosTitulo = document.createElement('h2');
@@ -47,18 +47,20 @@ document.addEventListener('DOMContentLoaded', function () {
           const contenedorImagenesSecundarias = document.createElement('div');
             contenedorImagenesSecundarias.className = 'contenedor-imagenes-secundarias';
 
+            // Comenzar desde el índice 1 para omitir la imagen principal
             obra.images.slice(1).forEach(imageUrl => {
                 const img = document.createElement('img');
                 img.src = imageUrl;
                 img.alt = `Imagen secundaria de ${obra.name}`;
-                img.className = 'img-obra-secundaria'; 
+                img.className = 'img-obra-secundaria'; // La clase para aplicar estilos
                 contenedorImagenesSecundarias.appendChild(img);
             });
 
+            // Agregar contenedor de imágenes secundarias al elemento principal
             displayElement.appendChild(contenedorImagenesSecundarias);
 
 
-          //descripción
+          // Agregar descripción
           const bloqueDesc = document.createElement('div');
           bloqueDesc.className = 'container-desc';
           const descTitulo = document.createElement('h2');
@@ -69,7 +71,7 @@ document.addEventListener('DOMContentLoaded', function () {
           bloqueDesc.appendChild(descripcion);
           displayElement.appendChild(bloqueDesc);
 
-          // elenco
+          // Agregar elenco
           const elenco = document.createElement('div');
           elenco.className = 'reparto-cont'
           const elencoTitulo = document.createElement('h2');

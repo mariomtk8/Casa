@@ -5,7 +5,7 @@
 <template>
     <header class="header">
       <div class="header__logo">
-        <RouterLink to="/html/index.html">
+        <RouterLink to="/">
           <img src="../assets/img/logo.png" alt="Logo del Teatro Example" class="logo__image">
         </RouterLink>
       </div>
