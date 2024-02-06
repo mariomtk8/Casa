@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "EI6Ja6CXNfSFDhCuf+ACVac75lb7nfMF/MyutGHSaBeCz64UNA2tyf5vY24OZmHBas8y6zV2kgWaIZW/0QQU5A==",
+  "dgSpecHash": "pUimt/hBcPOX+uVEsKdU7cC6WJb1uYYyBOl3nxyJ69EEmwGJdxUl9ZkJboYIE4E8hZk1L10OpYhyt0TZWhgp6A==",
   "success": true,
-  "projectFilePath": "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj",
+  "projectFilePath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\S2-PC00\\.nuget\\packages\\microsoft.netcore.platforms\\3.1.0\\microsoft.netcore.platforms.3.1.0.nupkg.sha512",
     "C:\\Users\\S2-PC00\\.nuget\\packages\\microsoft.win32.registry\\4.7.0\\microsoft.win32.registry.4.7.0.nupkg.sha512",

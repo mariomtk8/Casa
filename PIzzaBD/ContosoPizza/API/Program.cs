@@ -1,6 +1,7 @@
 using ContosoPizza.Services;
 using ContosoPizza.Data;
 using ContosoPizza.Controllers;
+using TetePizza.Data;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -9,15 +10,20 @@ var connectionString = builder.Configuration.GetConnectionString("ServerDB");
 builder.Services.AddScoped<IPizzaData,PizzaSqlData>(serviceProvider =>
 new PizzaSqlData(connectionString));
 
+builder.Services.AddScoped<PedidoController>();
+builder.Services.AddScoped<PedidoService>();
+builder.Services.AddScoped<IPedidosData, PedidosSqlData>(serviceProvider =>
+new PedidosSqlData(connectionString));
+
 builder.Services.AddControllers();
 
 builder.Services.AddEndpointsApiExplorer();
 builder.Services.AddSwaggerGen();
 
 
-builder.Services.AddScoped<PedidoController>();
-builder.Services.AddScoped <PedidoService>();
-builder.Services.AddSingleton<IPedidosData, PedidoData>();
+// builder.Services.AddScoped<PedidoController>();
+// builder.Services.AddScoped <PedidoService>();
+// builder.Services.AddSingleton<IPedidosData, PedidoData>();
 
 builder.Services.AddScoped<PizzaController>();
 builder.Services.AddScoped< PizzaService>();

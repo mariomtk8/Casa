@@ -16,7 +16,7 @@ services:
         #container_name: apiContainer
         #image: apidb-dockerdemo:1.2
         ports:
-            - 8001:82
+            - 8001:80
         build:
           context: .
           dockerfile: API/Dockerfile

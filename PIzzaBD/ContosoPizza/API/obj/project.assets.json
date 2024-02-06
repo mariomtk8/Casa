@@ -980,11 +980,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
+      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
       "projectName": "ContosoPizza.API",
-      "projectPath": "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
+      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
       "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-      "outputPath": "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\API\\obj\\",
+      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -1006,14 +1006,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
-              "projectPath": "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj"
+            "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
+              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj"
             },
-            "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
-              "projectPath": "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
+            "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
+              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
             },
-            "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {
-              "projectPath": "D:\\Mario_C\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj"
+            "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {
+              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj"
             }
           }
         }

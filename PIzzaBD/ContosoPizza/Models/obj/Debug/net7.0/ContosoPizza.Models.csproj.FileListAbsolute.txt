@@ -57,3 +57,15 @@ D:\Mario_C\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.dll
 D:\Mario_C\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\refint\ContosoPizza.Models.dll
 D:\Mario_C\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.pdb
 D:\Mario_C\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ref\ContosoPizza.Models.dll
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\bin\Debug\net7.0\ContosoPizza.Models.deps.json
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\bin\Debug\net7.0\ContosoPizza.Models.dll
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\bin\Debug\net7.0\ContosoPizza.Models.pdb
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.csproj.AssemblyReference.cache
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.AssemblyInfoInputs.cache
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.AssemblyInfo.cs
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.csproj.CoreCompileInputs.cache
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.dll
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\refint\ContosoPizza.Models.dll
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ContosoPizza.Models.pdb
+C:\Users\S2-PC00\Desktop\fa\Casa\PIzzaBD\ContosoPizza\Models\obj\Debug\net7.0\ref\ContosoPizza.Models.dll
