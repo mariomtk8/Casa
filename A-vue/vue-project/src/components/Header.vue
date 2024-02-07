@@ -11,7 +11,7 @@
       </div>
       <nav class="header__nav">
         <RouterLink to="/Programacion" class="nav__link">Programación</RouterLink>
-        <RouterLink to="/About" class="nav__link">Información</RouterLink>
+        <RouterLink to="/Informacion" class="nav__link">Información</RouterLink>
         <RouterLink to="/OtrasActividades" class="nav__link">Otras Actividades</RouterLink>
         <RouterLink to="/Contact" class="nav__link">Contacto</RouterLink>
       </nav>
