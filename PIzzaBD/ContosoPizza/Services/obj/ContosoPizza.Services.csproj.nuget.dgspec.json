@@ -1,39 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {}
+    "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {}
   },
   "projects": {
-    "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
+    "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
         "projectName": "ContosoPizza.Data",
-        "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
-        "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\obj\\",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\S2-PC00\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
-                "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
+              "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
+                "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
               }
             }
           }
@@ -48,6 +42,16 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "System.Data.SqlClient": {
               "target": "Package",
               "version": "[4.8.3, )"
@@ -64,37 +68,45 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
+    "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
         "projectName": "ContosoPizza.Models",
-        "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
-        "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\obj\\",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\S2-PC00\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -123,48 +135,56 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {
+    "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj",
+        "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj",
         "projectName": "ContosoPizza.Services",
-        "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj",
-        "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Services\\obj\\",
+        "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj",
+        "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Services\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\S2-PC00\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
-                "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj"
+              "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
+                "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj"
               },
-              "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
-                "projectPath": "C:\\Users\\S2-PC00\\Desktop\\fa\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
+              "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
+                "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
               }
             }
           }
@@ -189,12 +209,26 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[7.0.15, 7.0.15]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101\\RuntimeIdentifierGraph.json"
         }
       }
     }
