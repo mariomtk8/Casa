@@ -59,7 +59,11 @@
           }
         }
       },
+<<<<<<< HEAD
       "Microsoft.AspNetCore.OpenApi/7.0.7": {
+=======
+      "Microsoft.AspNetCore.OpenApi/7.0.1": {
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
         "type": "package",
         "dependencies": {
           "Microsoft.OpenApi": "1.4.3"
@@ -1334,6 +1338,65 @@
   "libraries": {
     "Azure.Core/1.24.0": {
       "sha512": "+/qI1j2oU1S4/nvxb2k/wDsol00iGf1AyJX5g3epV7eOpQEP/2xcgh/cxgKMeFgn3U2fmgSiBnQZdkV+l5y0Uw==",
+<<<<<<< HEAD
+=======
+      "type": "package",
+      "path": "azure.core/1.24.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGELOG.md",
+        "README.md",
+        "azure.core.1.24.0.nupkg.sha512",
+        "azure.core.nuspec",
+        "azureicon.png",
+        "lib/net461/Azure.Core.dll",
+        "lib/net461/Azure.Core.xml",
+        "lib/net5.0/Azure.Core.dll",
+        "lib/net5.0/Azure.Core.xml",
+        "lib/netcoreapp2.1/Azure.Core.dll",
+        "lib/netcoreapp2.1/Azure.Core.xml",
+        "lib/netstandard2.0/Azure.Core.dll",
+        "lib/netstandard2.0/Azure.Core.xml"
+      ]
+    },
+    "Azure.Identity/1.6.0": {
+      "sha512": "EycyMsb6rD2PK9P0SyibFfEhvWWttdrYhyPF4f41uzdB/44yQlV+2Wehxyg489Rj6gbPvSPgbKq0xsHJBhipZA==",
+      "type": "package",
+      "path": "azure.identity/1.6.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "CHANGELOG.md",
+        "README.md",
+        "azure.identity.1.6.0.nupkg.sha512",
+        "azure.identity.nuspec",
+        "azureicon.png",
+        "lib/netstandard2.0/Azure.Identity.dll",
+        "lib/netstandard2.0/Azure.Identity.xml"
+      ]
+    },
+    "Humanizer.Core/2.14.1": {
+      "sha512": "lQKvtaTDOXnoVJ20ibTuSIOf2i0uO0MPbDhd1jm238I+U/2ZnRENj0cktKZhtchBMtCUSRQ5v4xBCUbKNmyVMw==",
+      "type": "package",
+      "path": "humanizer.core/2.14.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "humanizer.core.2.14.1.nupkg.sha512",
+        "humanizer.core.nuspec",
+        "lib/net6.0/Humanizer.dll",
+        "lib/net6.0/Humanizer.xml",
+        "lib/netstandard1.0/Humanizer.dll",
+        "lib/netstandard1.0/Humanizer.xml",
+        "lib/netstandard2.0/Humanizer.dll",
+        "lib/netstandard2.0/Humanizer.xml",
+        "logo.png"
+      ]
+    },
+    "Microsoft.AspNetCore.OpenApi/7.0.1": {
+      "sha512": "rHaFl7SAHM59bwjcmcJMDyAfISkUDZi68iRSrzOZkGzAct72dqnG+w87+aycpayovZ3YLBZXL+6Oh6hAs5rH1w==",
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
       "type": "package",
       "path": "azure.core/1.24.0",
       "files": [
@@ -4135,7 +4198,11 @@
       "ContosoPizza.Data >= 1.0.0",
       "ContosoPizza.Models >= 1.0.0",
       "ContosoPizza.Services >= 1.0.0",
+<<<<<<< HEAD
       "Microsoft.AspNetCore.OpenApi >= 7.0.7",
+=======
+      "Microsoft.AspNetCore.OpenApi >= 7.0.1",
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
       "Microsoft.EntityFrameworkCore.Design >= 7.0.0",
       "Swashbuckle.AspNetCore >= 6.4.0"
     ]
@@ -4146,11 +4213,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
       "projectName": "ContosoPizza.API",
       "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\API\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
+      "projectName": "ContosoPizza.API",
+      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\API\\ContosoPizza.API.csproj",
+      "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\API\\obj\\",
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -4165,6 +4240,7 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
               "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj"
             },
@@ -4173,6 +4249,16 @@
             },
             "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {
               "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj"
+=======
+            "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj": {
+              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj"
+            },
+            "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
+              "projectPath": "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
+            },
+            "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj": {
+              "projectPath": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Services\\ContosoPizza.Services.csproj"
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
             }
           }
         }
@@ -4190,6 +4276,12 @@
           "Microsoft.AspNetCore.OpenApi": {
             "target": "Package",
             "version": "[7.0.7, )"
+          },
+          "Microsoft.EntityFrameworkCore.Design": {
+            "include": "Runtime, Build, Native, ContentFiles, Analyzers",
+            "suppressParent": "All",
+            "target": "Package",
+            "version": "[7.0.0, )"
           },
           "Microsoft.EntityFrameworkCore.Design": {
             "include": "Runtime, Build, Native, ContentFiles, Analyzers",

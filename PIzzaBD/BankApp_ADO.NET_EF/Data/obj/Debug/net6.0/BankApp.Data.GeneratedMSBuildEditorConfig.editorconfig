@@ -8,6 +8,10 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = BankApp.Data
+<<<<<<< HEAD
 build_property.ProjectDir = C:\Users\mario\OneDrive\Escritorio\Casa\PIzzaBD\BankApp_ADO.NET_EF\Data\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
+=======
+build_property.ProjectDir = c:\Users\S2-PC00\Desktop\Casa\PIzzaBD\BankApp_ADO.NET_EF\Data\
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9

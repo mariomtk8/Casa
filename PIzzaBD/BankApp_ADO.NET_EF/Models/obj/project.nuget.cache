@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "mXXCs/in2URaRY9T1vRbi4/0ZqP4T7+XftcXXRRNsOkGQ4SDZYMgmE37l3KQXbfU1fvRCWQW+PIMhRzCkfzHnQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\BankApp_ADO.NET_EF\\Models\\BankApp.Models.csproj",
+=======
+  "dgSpecHash": "SjZ+RmPPjy73YzB+wWDAuw9F/uXwe5Xazu5mfIFiUqVSOGKKZAnyqj9zBte83E8TlWdB1eaJZNM5Tl0OsS6A5A==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\BankApp_ADO.NET_EF\\Models\\BankApp.Models.csproj",
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
   "expectedPackageFiles": [],
   "logs": []
 }

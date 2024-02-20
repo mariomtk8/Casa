@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {}
   },
   "projects": {
@@ -12,6 +13,19 @@
         "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
         "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\obj\\",
+=======
+    "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {}
+  },
+  "projects": {
+    "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
+        "projectName": "ContosoPizza.Models",
+        "projectPath": "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
+        "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
+        "outputPath": "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\obj\\",
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"

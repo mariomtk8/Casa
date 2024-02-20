@@ -1,5 +1,6 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "o6ajPxF2C2Q3EzgfI410mUZxmsfYl8pUhBKIFlrOMYnWkizucC2BCRXjuSfwKuEoaUOqKYqMQs0cfEdK3PDqtw==",
   "success": true,
   "projectFilePath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
@@ -8,5 +9,11 @@
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
     "C:\\Users\\mario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512"
   ],
+=======
+  "dgSpecHash": "MQXbZ1aZSTVFMuXoVi3Eb2CGJuyoaaKtbrtC1CjR3sGF7pN9sjnfg2bN3fRSP4nCp/jzpL90mJiPxiHBWyWzVw==",
+  "success": true,
+  "projectFilePath": "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj",
+  "expectedPackageFiles": [],
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
   "logs": []
 }

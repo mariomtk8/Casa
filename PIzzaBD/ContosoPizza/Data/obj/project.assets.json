@@ -3695,11 +3695,19 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
       "projectName": "ContosoPizza.Data",
       "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
       "packagesPath": "C:\\Users\\mario\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Data\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
+      "projectName": "ContosoPizza.Data",
+      "projectPath": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Data\\ContosoPizza.Data.csproj",
+      "packagesPath": "C:\\Users\\S2-PC00\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Data\\obj\\",
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\mario\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -3714,8 +3722,13 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+<<<<<<< HEAD
             "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
               "projectPath": "C:\\Users\\mario\\OneDrive\\Escritorio\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
+=======
+            "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj": {
+              "projectPath": "c:\\Users\\S2-PC00\\Desktop\\Casa\\PIzzaBD\\ContosoPizza\\Models\\ContosoPizza.Models.csproj"
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
             }
           }
         }
