@@ -1,0 +1,28 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <ItemGroup>
+    <ProjectReference Include="..\Models\ContosoPizza.Models.csproj" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+  </PropertyGroup>
+ <ItemGroup>
+   <PackageReference Include="System.Data.SqlClient" Version="4.8.3" />
+<<<<<<< HEAD
+    <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+   <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+    </PackageReference>
+=======
+   <PackageReference Include="Microsoft.EntityFrameworkCore.SqlServer" Version="7.0.0" />
+   <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.0">
+    <PrivateAssets>all</PrivateAssets>
+    <IncludeAssets>runtime; build; native; contentfiles; analyzers</IncludeAssets>
+</PackageReference>
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
+  </ItemGroup>
+</Project>

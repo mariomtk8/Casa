@@ -1,0 +1,25 @@
+{
+  "runtimeOptions": {
+    "tfm": "net7.0",
+    "frameworks": [
+      {
+        "name": "Microsoft.NETCore.App",
+        "version": "7.0.0"
+      },
+      {
+        "name": "Microsoft.AspNetCore.App",
+        "version": "7.0.0"
+      }
+    ],
+    "configProperties": {
+      "System.GC.Server": true,
+<<<<<<< HEAD
+=======
+      "System.Globalization.Invariant": true,
+      "System.Globalization.PredefinedCulturesOnly": true,
+>>>>>>> 9d758d155708cd00f4c724cdf2de9faf3a5efab9
+      "System.Reflection.NullabilityInfoContext.IsSupported": true,
+      "System.Runtime.Serialization.EnableUnsafeBinaryFormatterSerialization": false
+    }
+  }
+}
